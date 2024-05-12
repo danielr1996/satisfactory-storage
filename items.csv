@@ -1,0 +1,131 @@
+id,name,intermediate,category,stacksize,sinkpoints,buildables
+Desc_Stone_C,Limestone,True,Ores,100,2,0
+Desc_OreIron_C,Iron Ore,True,Ores,100,1,0
+Desc_OreCopper_C,Copper Ore,True,Ores,100,3,0
+Desc_OreGold_C,Caterium Ore,True,Ores,100,7,0
+Desc_Coal_C,Coal,True,Ores,100,3,0
+Desc_RawQuartz_C,Raw Quartz,True,Ores,100,15,0
+Desc_Sulfur_C,Sulfur,True,Ores,100,11,0
+Desc_OreBauxite_C,Bauxite,True,Ores,100,8,0
+Desc_SAM_C,S.A.M. Ore,True,Ores,50,0,0
+Desc_OreUranium_C,Uranium,True,Ores,100,35,0
+Desc_IronIngot_C,Iron Ingot,True,Ingots,100,2,0
+Desc_CopperIngot_C,Copper Ingot,True,Ingots,100,6,0
+Desc_GoldIngot_C,Caterium Ingot,True,Ingots,100,42,0
+Desc_SteelIngot_C,Steel Ingot,True,Ingots,100,8,0
+Desc_AluminumIngot_C,Aluminum Ingot,True,Ingots,100,131,0
+Desc_Cement_C,Concrete,False,Minerals,500,12,347
+Desc_QuartzCrystal_C,Quartz Crystal,False,Minerals,200,50,8
+Desc_Silica_C,Silica,False,Minerals,200,20,14
+Desc_CopperDust_C,Copper Powder,True,Minerals,500,72,0
+Desc_PolymerResin_C,Polymer Resin,True,Minerals,200,12,0
+Desc_PetroleumCoke_C,Petroleum Coke,True,Minerals,200,20,0
+Desc_AluminumScrap_C,Aluminum Scrap,True,Minerals,500,27,0
+Desc_AlienProtein_C,Alien Protein,True,Aliens,100,Cannot be put into the sink.,0
+Desc_AlienDNACapsule_C,Alien DNA Capsule,True,Aliens,50,Cannot be put into the sink.,0
+Desc_Water_C,Water,True,Liquids,0,0,0
+Desc_LiquidOil_C,Crude Oil,True,Liquids,0,0,0
+Desc_HeavyOilResidue_C,Heavy Oil Residue,True,Liquids,0,0,0
+Desc_LiquidFuel_C,Fuel,True,Liquids,0,0,0
+Desc_LiquidBiofuel_C,Liquid Biofuel,True,Liquids,0,0,0
+Desc_LiquidTurboFuel_C,Turbofuel,True,Liquids,0,0,0
+Desc_AluminaSolution_C,Alumina Solution,True,Liquids,0,0,0
+Desc_SulfuricAcid_C,Sulfuric Acid,True,Liquids,0,0,0
+Desc_NitricAcid_C,Nitric Acid,True,Liquids,0,0,0
+Desc_NitrogenGas_C,Nitrogen Gas,True,Gas,0,0,0
+Desc_IronRod_C,Iron Rod,False,Standard Parts,200,4,42
+Desc_IronScrew_C,Screw,False,Standard Parts,500,2,1
+Desc_IronPlate_C,Iron Plate,False,Standard Parts,200,6,53
+Desc_IronPlateReinforced_C,Reinforced Iron Plate,False,Standard Parts,100,120,17
+Desc_CopperSheet_C,Copper Sheet,False,Standard Parts,200,24,17
+Desc_AluminumPlate_C,Alclad Aluminum Sheet,False,Standard Parts,200,266,5
+Desc_AluminumCasing_C,Aluminum Casing,False,Standard Parts,200,393,2
+Desc_SteelPipe_C,Steel Pipe,False,Standard Parts,200,24,15
+Desc_SteelPlate_C,Steel Beam,False,Standard Parts,200,64,25
+Desc_SteelPlateReinforced_C,Encased Industrial Beam,False,Standard Parts,100,632,13
+Desc_ModularFrame_C,Modular Frame,False,Standard Parts,50,408,7
+Desc_ModularFrameHeavy_C,Heavy Modular Frame,False,Standard Parts,50,"11,520",18
+Desc_ModularFrameFused_C,Fused Modular Frame,False,Standard Parts,50,"62,840",2
+Desc_Fabric_C,Fabric,True,Standard Parts,100,140,0
+Desc_Plastic_C,Plastic,False,Standard Parts,200,75,7
+Desc_Rubber_C,Rubber,False,Standard Parts,200,60,7
+Desc_Rotor_C,Rotor,False,Industrial Parts,100,140,11
+Desc_Stator_C,Stator,False,Industrial Parts,100,240,1
+Desc_Battery_C,Battery,True,Industrial Parts,200,465,0
+Desc_Motor_C,Motor,False,Industrial Parts,50,"1,520",14
+Desc_AluminumPlateReinforced_C,Heat Sink,True,Industrial Parts,100,"2,804",0
+Desc_CoolingSystem_C,Cooling System,False,Industrial Parts,100,"12,006",1
+Desc_MotorLightweight_C,Turbo Motor,False,Industrial Parts,50,"242,720",2
+Desc_Wire_C,Wire,False,Electronics,500,6,12
+Desc_Cable_C,Cable,False,Electronics,200,24,21
+Desc_HighSpeedWire_C,Quickwire,False,Electronics,500,17,9
+Desc_CircuitBoard_C,Circuit Board,False,Electronics,200,696,4
+Desc_CircuitBoardHighSpeed_C,AI Limiter,False,Electronics,100,920,4
+Desc_HighSpeedConnector_C,High-Speed Connector,False,Electronics,100,"3,776",6
+Desc_Computer_C,Computer,False,Communications,50,"17,260",6
+Desc_ComputerSuper_C,Supercomputer,False,Communications,50,"99,576",5
+Desc_ComputerQuantum_C,Quantum Computer,True,Communications,200,0,0
+Desc_ModularFrameLightweight_C,Radio Control Unit,False,Communications,50,"19,600",4
+Desc_CrystalOscillator_C,Crystal Oscillator,False,Communications,100,"3,072",4
+Desc_QuantumOscillator_C,Superposition Oscillator,True,Communications,200,0,0
+Desc_FluidCanister_C,Empty Canister,True,Containers,100,60,0
+Desc_GasTank_C,Empty Fluid Tank,True,Containers,100,225,0
+Desc_PressureConversionCube_C,Pressure Conversion Cube,True,Containers,50,"257,312",0
+Desc_PackagedWater_C,Packaged Water,True,Containers,100,130,0
+Desc_PackagedAlumina_C,Packaged Alumina Solution,True,Containers,100,160,0
+Desc_PackagedSulfuricAcid_C,Packaged Sulfuric Acid,True,Containers,100,152,0
+Desc_PackagedNitricAcid_C,Packaged Nitric Acid,True,Containers,100,412,0
+Desc_PackagedNitrogenGas_C,Packaged Nitrogen Gas,True,Containers,100,312,0
+Desc_Leaves_C,Leaves,True,Fuels,500,3,0
+Desc_Mycelia_C,Mycelia,True,Fuels,200,10,0
+Desc_FlowerPetals_C,Flower Petals,True,Fuels,500,10,0
+Desc_Wood_C,Wood,True,Fuels,200,30,0
+Desc_GenericBiomass_C,Biomass,False,Fuels,200,12,1
+Desc_CompactedCoal_C,Compacted Coal,True,Fuels,100,28,0
+Desc_PackagedOil_C,Packaged Oil,True,Fuels,100,180,0
+Desc_PackagedOilResidue_C,Packaged Heavy Oil Residue,True,Fuels,100,180,0
+Desc_Biofuel_C,Solid Biofuel,True,Fuels,200,48,0
+Desc_Fuel_C,Packaged Fuel,True,Fuels,100,270,0
+Desc_PackagedBiofuel_C,Packaged Liquid Biofuel,True,Fuels,100,370,0
+Desc_TurboFuel_C,Packaged Turbofuel,True,Fuels,100,570,0
+Desc_NuclearFuelRod_C,Uranium Fuel Rod,True,Fuels,50,"44,092",0
+Desc_PlutoniumFuelRod_C,Plutonium Fuel Rod,True,Fuels,50,"153,184",0
+Desc_Gunpowder_C,Black Powder,True,Consumed,200,14,0
+Desc_GunpowderMK2_C,Smokeless Powder,True,Consumed,100,58,0
+Desc_Filter_C,Gas Filter,True,Consumed,50,830,0
+Desc_ColorCartridge_C,Color Cartridge,True,Consumed,200,10,0
+BP_EquipmentDescriptorBeacon_C,Beacon,True,Consumed,100,320,0
+Desc_HazmatFilter_C,Iodine Infused Filter,True,Consumed,50,"2,718",0
+Desc_SpikedRebar_C,Iron Rebar,True,Ammos,100,8,0
+Desc_Rebar_Stunshot_C,Stun Rebar,True,Ammos,100,186,0
+Desc_Rebar_Spreadshot_C,Shatter Rebar,True,Ammos,100,332,0
+Desc_Rebar_Explosive_C,Explosive Rebar,True,Ammos,100,360,0
+Desc_CartridgeStandard_C,Rifle Ammo,True,Ammos,500,25,0
+Desc_CartridgeSmartProjectile_C,Homing Rifle Ammo,True,Ammos,500,855,0
+Desc_CartridgeChaos_C,Turbo Rifle Ammo,True,Ammos,500,120,0
+Desc_NobeliskExplosive_C,Nobelisk,True,Ammos,50,152,0
+Desc_NobeliskGas_C,Gas Nobelisk,True,Ammos,50,544,0
+Desc_NobeliskShockwave_C,Pulse Nobelisk,True,Ammos,50,"1,533",0
+Desc_NobeliskCluster_C,Cluster Nobelisk,True,Ammos,50,"1,376",0
+Desc_NobeliskNuke_C,Nuke Nobelisk,True,Ammos,50,"19,600",0
+Desc_ElectromagneticControlRod_C,Electromagnetic Control Rod,False,Nuclear,100,"2,560",1
+Desc_UraniumCell_C,Encased Uranium Cell,True,Nuclear,200,147,0
+Desc_NonFissibleUranium_C,Non-fissile Uranium,True,Nuclear,500,Cannot be put into the sink.,0
+Desc_PlutoniumPellet_C,Plutonium Pellet,True,Nuclear,100,Cannot be put into the sink.,0
+Desc_PlutoniumCell_C,Encased Plutonium Cell,True,Nuclear,200,Cannot be put into the sink.,0
+Desc_NuclearWaste_C,Uranium Waste,True,Waste,500,Cannot be put into the sink.,0
+Desc_PlutoniumWaste_C,Plutonium Waste,True,Waste,500,Cannot be put into the sink.,0
+Desc_Crystal_C,Blue Power Slug,True,Special,50,Cannot be put into the sink.,0
+Desc_Crystal_mk2_C,Yellow Power Slug,True,Special,50,Cannot be put into the sink.,0
+Desc_Crystal_mk3_C,Purple Power Slug,True,Special,50,Cannot be put into the sink.,0
+Desc_CrystalShard_C,Power Shard,True,Special,100,Cannot be put into the sink.,0
+Desc_ResourceSinkCoupon_C,FICSIT Coupon,True,Special,500,0,0
+Desc_SpaceElevatorPart_1_C,Smart Plating,True,Special,50,520,0
+Desc_SpaceElevatorPart_2_C,Versatile Framework,True,Special,50,"1,176",0
+Desc_SpaceElevatorPart_3_C,Automated Wiring,True,Special,50,"1,440",0
+Desc_SpaceElevatorPart_4_C,Modular Engine,True,Special,50,"9,960",0
+Desc_SpaceElevatorPart_5_C,Adaptive Control Unit,True,Special,50,"86,120",0
+Desc_SpaceElevatorPart_7_C,Assembly Director System,True,Special,50,"543,632",0
+Desc_SpaceElevatorPart_6_C,Magnetic Field Generator,True,Special,50,"15,650",0
+Desc_SpaceElevatorPart_8_C,Thermal Propulsion Rocket,True,Special,50,"732,956",0
+Desc_SpaceElevatorPart_9_C,Nuclear Pasta,True,Special,50,"543,424",0
